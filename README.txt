@@ -1,3 +1,5 @@
+A fork of https://github.com/thinlizzy/die-xml that doesn't use exceptions.
+
 Welcome to die-xml, which stands for Diego's XML Parser.
 
 This project is a simple XML SAX parser that uses a finite automaton as the backend.
